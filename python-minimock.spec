@@ -1,6 +1,6 @@
 Name:           python-minimock
-Version:        1.2.5
-Release:        %mkrel 2
+Version:        1.2.6
+Release:        %mkrel 1
 Summary:        The simplest possible mock library
 Group:          Development/Python
 License:        MIT
