@@ -30,3 +30,15 @@ rm -rf %{buildroot}
 %doc docs/*
 %{python_sitelib}/MiniMock-%{version}-py?.?.egg-info
 %{python_sitelib}/minimock*
+
+
+%changelog
+* Mon May 02 2011 Guillaume Rousse <guillomovitch@mandriva.org> 1.2.6-1mdv2011.0
++ Revision: 662535
+- update to new version 1.2.6
+
+* Thu Mar 18 2010 Caio Begotti <caio1982@mandriva.org> 1.2.5-2mdv2011.0
++ Revision: 525008
+- missing buildrequires entry
+- import python-minimock
+
