@@ -1,6 +1,6 @@
 Name:           python-minimock
 Version:        1.2.8
-Release:        1
+Release:        2
 Summary:        The simplest possible mock library
 Group:          Development/Python
 License:        MIT
