@@ -4,7 +4,7 @@ Release:        2
 Summary:        The simplest possible mock library
 Group:          Development/Python
 License:        MIT
-URL:            http://pypi.python.org/pypi/MiniMock
+URL:            https://pypi.python.org/pypi/MiniMock
 Source0:        http://pypi.python.org/packages/source/M/MiniMock/MiniMock-%{version}.tar.gz
 BuildRequires:  python-devel
 BuildRequires:  python-setuptools
